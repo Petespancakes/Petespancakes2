@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://thumbs.dreamstime.com/z/chef-pancakes-29543666.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#Companyname  {
+    font-size: 5em;
+    color: rgb(245, 17, 74);
+    padding-top: 1em;
+    text-align: center;
+}
+
+
+#Menu {
+    color: rgb(20, 91, 38);
+    font-size: 2em;
+    text-align: left;
+}
+
+
+#location {
+    color: rgb(250, 33, 33);
+    font-size: 2em;
+    text-align: left;
+}
+
+
+#information { 
+    color: rgb(250, 33, 33);
+    font-size: 2em;
+    text-align: left;
+}
